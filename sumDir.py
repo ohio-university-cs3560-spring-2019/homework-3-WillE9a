@@ -1,6 +1,7 @@
 # Will Eshbaugh
 # Homework 5
 # Python script called by a bash script to output total number of lines, words, and characters in a directory
+# using python 2
 
 file = open("newtempfile.txt", "r")
 file.readline()
